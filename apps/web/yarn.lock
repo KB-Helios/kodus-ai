@@ -5424,10 +5424,10 @@ regexp.prototype.flags@^1.5.3, regexp.prototype.flags@^1.5.4:
     gopd "^1.2.0"
     set-function-name "^2.0.2"
 
-request-filtering-agent@^3.2.0:
-  version "3.2.0"
-  resolved "https://registry.npmjs.org/request-filtering-agent/-/request-filtering-agent-3.2.0.tgz#4b42c95624a88080454282e6df0cb8e41a2ae365"
-  integrity sha512-tKPrKdsmTFuGG1/pBEpzTB66mDZ2lZLW8kjW4N6jj4QjnxUTKrIfv5p2zuJRfztOos86jRPD41lRaGjh+1QqDw==
+request-filtering-agent@^3.2.1:
+  version "3.2.1"
+  resolved "https://registry.yarnpkg.com/request-filtering-agent/-/request-filtering-agent-3.2.1.tgz#d91719418578581ecbce6372616652927c9a32cf"
+  integrity sha512-NUz5G9n6GRSgB9JNurHCeeJX60s+qxL/DKTPjC6+fXrQ20w7iQy+ST6h4hKjeu1AjfH7FtIV+uw5eOq4CqWe8Q==
   dependencies:
     ipaddr.js "^2.1.0"
 

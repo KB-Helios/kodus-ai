@@ -74,7 +74,7 @@
         "react-select": "^5.10.2",
         "react-sortablejs": "^6.1.4",
         "react-syntax-highlighter": "^16.1.1",
-        "request-filtering-agent": "^3.2.0",
+        "request-filtering-agent": "^3.2.1",
         "seed-color": "^2.0.1",
         "sortablejs": "^1.15.7",
         "tailwind-merge": "3.6.0",

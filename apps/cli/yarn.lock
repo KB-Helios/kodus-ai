@@ -1347,10 +1347,10 @@ fdir@^6.5.0:
   resolved "https://registry.npmjs.org/fdir/-/fdir-6.5.0.tgz"
   integrity sha512-tIbYtZbucOs0BRGqPJkshJUYdL+SDH7dVM8gjy+ERp3WAUjLEFJE+02kanyHtwjWOnwrKYBiwAmM0p4kLJAnXg==
 
-figlet@^1.11.0:
-  version "1.11.0"
-  resolved "https://registry.npmjs.org/figlet/-/figlet-1.11.0.tgz#17b8a438ac75bfdbfbae79ecbc422e6e98d383fa"
-  integrity sha512-EEx3OS/l2bFqcUNN2NM9FPJp8vAMrgbCxsbl2hbcJNNxOEwVe3mEzrhan7TbJQViZa8mMqhihlbCaqD+LyYKTQ==
+figlet@^1.11.3:
+  version "1.11.3"
+  resolved "https://registry.yarnpkg.com/figlet/-/figlet-1.11.3.tgz#9feb8895c373646491e89e5ef99d4097859c465b"
+  integrity sha512-7+OS4S6VjQXI2XRvfZlOdHhItd25lI0NgrR1j5UHfuyZfmMh44v65tMQUlb2bSriYGPCHAtGhuY5u23vqelvmg==
   dependencies:
     commander "^14.0.0"
 
